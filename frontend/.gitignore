@@ -1,0 +1,63 @@
+# Node.js dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build files
+dist/
+build/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Environment files
+.env
+.env.*
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.temp
+*.old
+*.orig
+*.rej
+*.swo
+*.swn
+
+# Frontend specific
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Backend specific
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/*.pyd
+backend/.env
+backend/.venv
+backend/logs/

@@ -1,0 +1,32 @@
+{
+  "name": "patient-ui",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^7.3.6",
+    "@mui/material": "^5.15.0",
+    "axios": "^1.6.0",
+    "country-state-city": "^3.2.1",
+    "dagre": "^0.8.5",
+    "framer-motion": "^12.23.26",
+    "iso-639-1": "^3.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reactflow": "^11.11.4",
+    "recharts": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  }
+}
