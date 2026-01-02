@@ -1,7 +1,7 @@
 # HealthCare Application
 
 ## Description
-This HealthCare Application is a platform for managing healthcare tasks, including patient management, report uploads, analytics, and subscriptions. It features a Python-based backend for APIs and logic, and a React-Typescript frontend for an intuitive user experience.
+This HealthCare Application is a platform for managing healthcare tasks, including patient management, report uploads, analytics, and subscriptions. It features a Python based backend for APIs and logic, and a React-Typescript frontend for an intuitive user experience.
 
 ## Features
 - User authentication and authorization
